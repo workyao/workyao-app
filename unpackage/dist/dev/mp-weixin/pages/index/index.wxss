@@ -1,0 +1,90 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 页面样式 */
+.form-container {
+    padding: 20px;
+    text-align: center;
+}
+/* 单选框样式 */
+label {
+    display: block;
+    margin: 10px 0;
+}
+/* 按钮样式 */
+button {
+    margin-top: 20px;
+}
+/* 提示信息样式 */
+.message {
+    display: block;
+    margin-top: 10px;
+    color: #333;
+    font-size: 16px;
+}
+

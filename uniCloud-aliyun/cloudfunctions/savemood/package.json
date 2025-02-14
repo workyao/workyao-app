@@ -1,0 +1,7 @@
+{
+  "name": "savemood",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}
